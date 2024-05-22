@@ -17,6 +17,7 @@
 ## :link: Links
 
 - [GitHub Repository](https://github.com/Mxthesss/MX-LoadingScreen)
+- [Discord+More Scripts](https://discord.gg/PBETRY2g8D)
 - [DOCS](https://mxthess.gitbook.io/mx-scripts/)
 
 ## :bulb: Note
