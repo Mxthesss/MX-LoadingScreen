@@ -9,14 +9,14 @@ loadscreen 'html/index.html'
 
 files {
     'html/index.html',
-	'html/assets/images/cheetah.png',
+    'html/assets/images/cheetah.png',
     'html/assets/images/member1.png',
     'html/assets/images/member2.png',
     'html/assets/images/member3.png',
     'html/assets/images/member4.png',
     'html/css/style.css',
-	'html/js/script.js',
-	'html/assets/song/song.mp3'
+    'html/js/script.js',
+    'html/assets/song/song.mp3'
 }
 
 loadscreen_manual_shutdown 'yes'
